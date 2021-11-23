@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Commons">
+      <UniqueIdentifier>{27390d0a-a41e-455d-bba5-0a68d7511456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Include">
+      <UniqueIdentifier>{7b6b4b72-9b6f-4505-b90f-ad8f9e0d831e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules">
+      <UniqueIdentifier>{8b51a6de-c218-44a6-8790-6249391f00f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules">
+      <UniqueIdentifier>{9a935748-05e1-40e3-b840-ef3ee1e631d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\分页箱子">
+      <UniqueIdentifier>{8ea0f10b-911b-4552-8f1a-9e62b5c1900f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\分页箱子">
+      <UniqueIdentifier>{d8a7b4c4-20c7-4a71-a3fd-0d9c3ec8eba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\动态物品与血球">
+      <UniqueIdentifier>{5e390be6-081e-4f83-94ee-1248150085ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\动态物品与血球">
+      <UniqueIdentifier>{63416570-e01f-426b-867a-494d9507b16a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\伤害显示">
+      <UniqueIdentifier>{950fe16c-00fc-4ab1-926b-1c79251f5685}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\伤害显示">
+      <UniqueIdentifier>{d6d301cc-7c03-4b7f-b1e4-56b3a9e0420a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\佣兵全装备">
+      <UniqueIdentifier>{eb88e275-1fd4-435a-9bbf-b44d112a01cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\佣兵全装备">
+      <UniqueIdentifier>{43bd76ea-e4a4-4983-8396-1cdd45b9b164}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\魔法口袋">
+      <UniqueIdentifier>{9f45bbbd-0a42-4c05-8076-9aec314b9e9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\魔法口袋">
+      <UniqueIdentifier>{5f15e4ec-1f5d-40d4-b5f9-8168dd9814d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录">
+      <UniqueIdentifier>{e6cde662-8493-4a6f-b6ca-b85c157916bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录">
+      <UniqueIdentifier>{87a1b2f4-7345-4468-afca-aad37b6cfa3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\全小站%255c全任务%255c一拳满级%255c掉落">
+      <UniqueIdentifier>{92144c02-3e1a-4704-ae9d-4ef0b1472d45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\全小站%255c全任务%255c一拳满级%255c掉落">
+      <UniqueIdentifier>{8e409cef-f1e3-43ef-bb6c-7d5ecbe52296}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\场景拓展至255（未完成）">
+      <UniqueIdentifier>{f57fe125-6b97-40e5-80c8-270339e50b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\分页属性">
+      <UniqueIdentifier>{da74f07d-79a7-42cf-9157-4efa9b4133a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\分页属性">
+      <UniqueIdentifier>{05977387-8d67-4afc-bcee-6789d6cd0d63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\红门与洗点">
+      <UniqueIdentifier>{77572ad7-b047-468a-b59c-69f36a312f24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\红门与洗点%255c每级加2技能点">
+      <UniqueIdentifier>{8e50c5ca-3481-4257-a2af-a5ab83989568}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示">
+      <UniqueIdentifier>{d94d82be-8dbc-4672-93ff-dca7f07c7846}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示">
+      <UniqueIdentifier>{483f5a7c-710b-48e8-b2f8-089633260437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\Game.exe跳字母修复">
+      <UniqueIdentifier>{02e4a5f2-9b21-4e9a-8409-bfeaf218822e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\Game.exe跳字母修复%255cD2HD">
+      <UniqueIdentifier>{b8cfe74b-7c42-4fd9-b4b4-d23bb4b29bf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\存档路径变更">
+      <UniqueIdentifier>{109df73f-1630-4301-b81c-3dbef01a9da9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的Patch">
+      <UniqueIdentifier>{5669dc89-a29c-4e59-9a4d-e1069e020a97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的信息">
+      <UniqueIdentifier>{2ea39eb4-1136-4fbf-8e34-034f780a4569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\D2dll">
+      <UniqueIdentifier>{86e0f342-7bfb-41f3-a263-78d7d3c38723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\PublicClass">
+      <UniqueIdentifier>{2d27dbd3-39f3-4a8e-a9f7-438c446f6797}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PublicClass">
+      <UniqueIdentifier>{280410f2-4bf4-49c3-8ee4-3f9f8b2bb809}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\D2dll">
+      <UniqueIdentifier>{95ed3ca9-41de-462c-bf0a-d28cd8fb9547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Modules\场景拓展至255">
+      <UniqueIdentifier>{c1fd0650-f024-4333-a25c-250c3314a526}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InstallAndUnInstall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Modules.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_NewStatShow_StatsPageTwo.h">
+      <Filter>头文件\Modules\分页属性</Filter>
+    </ClInclude>
+    <ClInclude Include="m_NewStatShow.h">
+      <Filter>头文件\Modules\分页属性</Filter>
+    </ClInclude>
+    <ClInclude Include="m_NewStatShowPre.h">
+      <Filter>头文件\Modules\分页属性</Filter>
+    </ClInclude>
+    <ClInclude Include="m_NewStatShow_Stats.h">
+      <Filter>头文件\Modules\分页属性</Filter>
+    </ClInclude>
+    <ClInclude Include="m_NewStatShow_StatsOld.h">
+      <Filter>头文件\Modules\分页属性</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MagicBag.h">
+      <Filter>头文件\Modules\魔法口袋</Filter>
+    </ClInclude>
+    <ClInclude Include="m_UpdateServerClient.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_TimerEvent.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_32KLifeFix.h">
+      <Filter>头文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示</Filter>
+    </ClInclude>
+    <ClInclude Include="m_DrawFunctions.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages_PlayerCustomData.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages_SavePlayerData.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages_LoadPlayerData.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages_InterfaceStash.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages_ExtendedSaveFile.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiPages_D2StashFunctions.h">
+      <Filter>头文件\Modules\分页箱子</Filter>
+    </ClInclude>
+    <ClInclude Include="m_DynamicItems.h">
+      <Filter>头文件\Modules\动态物品与血球</Filter>
+    </ClInclude>
+    <ClInclude Include="m_DynamicOrbs.h">
+      <Filter>头文件\Modules\动态物品与血球</Filter>
+    </ClInclude>
+    <ClInclude Include="m_DamageShow.h">
+      <Filter>头文件\Modules\伤害显示</Filter>
+    </ClInclude>
+    <ClInclude Include="m_EquipedPet.h">
+      <Filter>头文件\Modules\佣兵全装备</Filter>
+    </ClInclude>
+    <ClInclude Include="m_StatItemExtended.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_NewStatDesc.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_SoulSkills.h">
+      <Filter>头文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClInclude>
+    <ClInclude Include="m_LastHitEvent.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_PlayerDeathKillCount.h">
+      <Filter>头文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClInclude>
+    <ClInclude Include="m_KuiLeiCharm.h">
+      <Filter>头文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClInclude>
+    <ClInclude Include="m_ConvenientGame.h">
+      <Filter>头文件\Modules\全小站%255c全任务%255c一拳满级%255c掉落</Filter>
+    </ClInclude>
+    <ClInclude Include="m_Drop.h">
+      <Filter>头文件\Modules\全小站%255c全任务%255c一拳满级%255c掉落</Filter>
+    </ClInclude>
+    <ClInclude Include="m_XuKongCharm.h">
+      <Filter>头文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClInclude>
+    <ClInclude Include="m_RedPortal.h">
+      <Filter>头文件\Modules\红门与洗点%255c每级加2技能点</Filter>
+    </ClInclude>
+    <ClInclude Include="m_LevelExtended.h">
+      <Filter>头文件\Modules\场景拓展至255（未完成）</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MiscFunctions.h">
+      <Filter>头文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="m_SaveFileLimit.h">
+      <Filter>头文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="m_RespecNormal.h">
+      <Filter>头文件\Modules\红门与洗点%255c每级加2技能点</Filter>
+    </ClInclude>
+    <ClInclude Include="m_StatFilter.h">
+      <Filter>头文件\Modules</Filter>
+    </ClInclude>
+    <ClInclude Include="m_RandomStat.h">
+      <Filter>头文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示</Filter>
+    </ClInclude>
+    <ClInclude Include="m_MultiFlagStatShow.h">
+      <Filter>头文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示</Filter>
+    </ClInclude>
+    <ClInclude Include="m_StatFunctions.h">
+      <Filter>头文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="m_HighResolution.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_HighResolution_HD.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_HighResolution_Color.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_HighResolution_Draw.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_HighResolution_Inventory.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_HighResolution_Patchs.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_GameExeDrawModeFix.h">
+      <Filter>头文件\Modules\Game.exe跳字母修复%255cD2HD</Filter>
+    </ClInclude>
+    <ClInclude Include="m_LaunchInfo.h">
+      <Filter>头文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的Patch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\d2constants.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\d2BinFile.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2PKTStruct.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\d2StringTblStruct.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\d2Struct.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2UnitStruct.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\updatingConst.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Client.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Cmp.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Common.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2DDraw.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Direct3D.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Game.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Gdi.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Gfx.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Glide.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Lang.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Net.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Launch.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Win.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Fog.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Storm.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Library.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Functions\D2DrawCell.h">
+      <Filter>头文件\PublicClass</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Functions\D2Memory.h">
+      <Filter>头文件\PublicClass</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\D2Functions.h">
+      <Filter>头文件\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Cfg_Load.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Functions\cJSON.h">
+      <Filter>头文件\PublicClass</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Functions\D2String.h">
+      <Filter>头文件\PublicClass</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\Functions\D2Json.h">
+      <Filter>头文件\PublicClass</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Commons\GMExpose\LoadD2.h">
+      <Filter>头文件\D2dll</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="global variables.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="m_NewStatShow_StatsPageTwo.cpp">
+      <Filter>源文件\Modules\分页属性</Filter>
+    </ClCompile>
+    <ClCompile Include="m_NewStatShow.cpp">
+      <Filter>源文件\Modules\分页属性</Filter>
+    </ClCompile>
+    <ClCompile Include="m_NewStatShowPre.cpp">
+      <Filter>源文件\Modules\分页属性</Filter>
+    </ClCompile>
+    <ClCompile Include="m_NewStatShow_Stats.cpp">
+      <Filter>源文件\Modules\分页属性</Filter>
+    </ClCompile>
+    <ClCompile Include="m_NewStatShow_StatsOld.cpp">
+      <Filter>源文件\Modules\分页属性</Filter>
+    </ClCompile>
+    <ClCompile Include="m_TimerEvent.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MagicBag.cpp">
+      <Filter>源文件\Modules\魔法口袋</Filter>
+    </ClCompile>
+    <ClCompile Include="m_UpdateServerClient.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_32KLifeFix.cpp">
+      <Filter>源文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示</Filter>
+    </ClCompile>
+    <ClCompile Include="m_DrawFunctions.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages_D2StashFunctions.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages_ExtendedSaveFile.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages_InterfaceStash.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages_LoadPlayerData.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages_PlayerCustomData.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiPages_SavePlayerData.cpp">
+      <Filter>源文件\Modules\分页箱子</Filter>
+    </ClCompile>
+    <ClCompile Include="m_DynamicItems.cpp">
+      <Filter>源文件\Modules\动态物品与血球</Filter>
+    </ClCompile>
+    <ClCompile Include="m_DynamicOrbs.cpp">
+      <Filter>源文件\Modules\动态物品与血球</Filter>
+    </ClCompile>
+    <ClCompile Include="m_StatItemExtended.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_NewStatDesc.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_SoulSkills.cpp">
+      <Filter>源文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClCompile>
+    <ClCompile Include="m_LastHitEvent.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_PlayerDeathKillCount.cpp">
+      <Filter>源文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClCompile>
+    <ClCompile Include="m_KuiLeiCharm.cpp">
+      <Filter>源文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClCompile>
+    <ClCompile Include="m_ConvenientGame.cpp">
+      <Filter>源文件\Modules\全小站%255c全任务%255c一拳满级%255c掉落</Filter>
+    </ClCompile>
+    <ClCompile Include="m_Drop.cpp">
+      <Filter>源文件\Modules\全小站%255c全任务%255c一拳满级%255c掉落</Filter>
+    </ClCompile>
+    <ClCompile Include="m_XuKongCharm.cpp">
+      <Filter>源文件\Modules\灵魂%255c傀儡%255c虚空%255c击杀死亡记录</Filter>
+    </ClCompile>
+    <ClCompile Include="m_RedPortal.cpp">
+      <Filter>源文件\Modules\红门与洗点</Filter>
+    </ClCompile>
+    <ClCompile Include="m_LevelExtended.cpp">
+      <Filter>源文件\Modules\场景拓展至255</Filter>
+    </ClCompile>
+    <ClCompile Include="m_DamagesShow.cpp">
+      <Filter>源文件\Modules\伤害显示</Filter>
+    </ClCompile>
+    <ClCompile Include="m_EquipedPet.cpp">
+      <Filter>源文件\Modules\佣兵全装备</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MiscFunctions.cpp">
+      <Filter>源文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的信息</Filter>
+    </ClCompile>
+    <ClCompile Include="m_SaveFileLimit.cpp">
+      <Filter>源文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的信息</Filter>
+    </ClCompile>
+    <ClCompile Include="m_RespecNormal.cpp">
+      <Filter>源文件\Modules\红门与洗点</Filter>
+    </ClCompile>
+    <ClCompile Include="m_StatFilter.cpp">
+      <Filter>源文件\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="m_RandomStat.cpp">
+      <Filter>源文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示</Filter>
+    </ClCompile>
+    <ClCompile Include="m_MultiFlagStatShow.cpp">
+      <Filter>源文件\Modules\血量上限修复%255c赌博随机%255c属性多重显示</Filter>
+    </ClCompile>
+    <ClCompile Include="m_StatFunctions.cpp">
+      <Filter>源文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的信息</Filter>
+    </ClCompile>
+    <ClCompile Include="m_GameExeDrawModeFix.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_HD.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_Color.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_Draw.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_Inventory.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_Patchs.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_PatchsASM.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_HighResolution_DrawASM.cpp">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClCompile>
+    <ClCompile Include="m_savepath.cpp">
+      <Filter>源文件\Modules\存档路径变更</Filter>
+    </ClCompile>
+    <ClCompile Include="m_LaunchInfo.cpp">
+      <Filter>源文件\Modules\MOD杂项功能%255c护符限制%255c进游戏的信息</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DrawCell.cpp">
+      <Filter>源文件\PublicClass</Filter>
+    </ClCompile>
+    <ClCompile Include="Fog.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Client.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Game.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Common.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Launch.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Win.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Cmp.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Direct3D.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Gdi.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Gfx.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Glide.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Lang.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Net.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2DDraw.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="Storm.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Memory.cpp">
+      <Filter>源文件\PublicClass</Filter>
+    </ClCompile>
+    <ClCompile Include="cJSON.cpp">
+      <Filter>源文件\PublicClass</Filter>
+    </ClCompile>
+    <ClCompile Include="D2String.cpp">
+      <Filter>源文件\PublicClass</Filter>
+    </ClCompile>
+    <ClCompile Include="D2Json.cpp">
+      <Filter>源文件\PublicClass</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadD2.cpp">
+      <Filter>源文件\D2dll</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="..\patchload_sj.json" />
+  </ItemGroup>
+</Project>
