@@ -54,7 +54,8 @@ qq:616841897
 3.  mxcen
 4.  。。。
 5.  plugy项目
-6.  hackmap项目
+6.  high resolution(did some changes for my mod) from https://github.com/noah-/D2HD 
+7.  hackmap项目
 
 
 
