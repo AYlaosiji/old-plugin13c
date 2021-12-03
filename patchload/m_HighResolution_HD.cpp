@@ -1,5 +1,6 @@
 #include "d2hd_license.h"
 #include"pch.h"
+//see https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Display-Fix
 #ifdef MODULES_HIGHRESOLUTION
 std::vector<D2HD::D2HDResolution> D2HD::D2HDResolution::resolutions = 
 {

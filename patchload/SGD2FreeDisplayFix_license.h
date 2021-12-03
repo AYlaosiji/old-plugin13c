@@ -42,3 +42,5 @@
  *  this Program grant you additional permission to convey the resulting
  *  work.
  */
+
+//see https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Display-Fix

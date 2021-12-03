@@ -1,3 +1,5 @@
+//see https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Display-Fix
+#include "d2hd_license.h"
 namespace D2HD 
 {
     class D2HDColor {

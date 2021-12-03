@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 namespace D2HD 
 {
     namespace Draw 
