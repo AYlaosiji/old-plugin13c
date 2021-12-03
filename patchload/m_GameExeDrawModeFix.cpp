@@ -1,3 +1,4 @@
+#include "SGD2FreeDisplayFix_license.h"
 #include"pch.h"
 #ifdef MODULES_GAMEEXEDRAWMODEFIX
 

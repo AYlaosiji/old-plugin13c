@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 #include"pch.h"
 #ifdef MODULES_HIGHRESOLUTION
 //是否针对暗黑窗口进行修复

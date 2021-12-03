@@ -363,6 +363,15 @@
     <ClInclude Include="..\Commons\GMExpose\LoadD2.h">
       <Filter>头文件\D2dll</Filter>
     </ClInclude>
+    <ClInclude Include="d2hd_license.h">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClInclude>
+    <ClInclude Include="SGD2FreeDisplayFix_license.h">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClInclude>
+    <ClInclude Include="d2template_licenses.txt">
+      <Filter>源文件\Modules\Game.exe跳字母修复</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">

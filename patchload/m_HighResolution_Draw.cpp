@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 #include "pch.h"
 
 #ifdef MODULES_HIGHRESOLUTION

@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 #include"pch.h"
 #ifdef MODULES_HIGHRESOLUTION
 __declspec(naked) void D2HD::Draw::determineVideoOptionTextInterception()

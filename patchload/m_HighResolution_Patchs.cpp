@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 #include"pch.h"
 #ifdef MODULES_HIGHRESOLUTION
 void __stdcall D2HD::getModeParams(int mode, int* width, int* height)

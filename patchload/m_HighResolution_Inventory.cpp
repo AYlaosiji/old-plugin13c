@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 #include"pch.h"
 #ifdef MODULES_HIGHRESOLUTION
 void __stdcall D2HD::Inventory::getBeltPos(int nIndex, int nMode, BeltBox* out, int nBox) // Wrapper on D2Common.Ordinal10689

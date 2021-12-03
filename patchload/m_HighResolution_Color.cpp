@@ -1,3 +1,4 @@
+#include "d2hd_license.h"
 #include "pch.h"
 #ifdef MODULES_HIGHRESOLUTION
 D2HD::D2HDColor::D2HDColor(const unsigned char red, const unsigned char green,

@@ -1,9 +1,7 @@
 # OldPlugin13c
 
 #### 介绍
-该仓库为本人两年前做暗月1.13c功能时，建立的一个hook game的仓库
-由于项目今年已迁移至1.14d，该仓库现在公开用于mod制作交流学习，如有新的提交或者交流请联系：
-qq:616841897
+该仓库现在公开用于mod制作交流学习
 
 #### 功能包括
 
@@ -53,9 +51,9 @@ qq:616841897
 2.  andersong
 3.  mxcen
 4.  。。。
-5.  plugy项目
+5.  plugy
 6.  high resolution(did some changes for my mod) from https://github.com/noah-/D2HD 
-7.  hackmap项目
+7.  hackmap
 
 
 

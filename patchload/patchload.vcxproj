@@ -131,6 +131,7 @@
     <ClInclude Include="..\Commons\GMExpose\Storm.h" />
     <ClInclude Include="..\Commons\GMExpose\updatingConst.h" />
     <ClInclude Include="..\include\Cfg_Load.h" />
+    <ClInclude Include="d2template_licenses.txt" />
     <ClInclude Include="m_HighResolution_Inventory.h" />
     <ClInclude Include="m_DynamicOrbs.h" />
     <ClInclude Include="m_GameExeDrawModeFix.h" />
@@ -181,6 +182,8 @@
     <ClInclude Include="m_MultiPages_PlayerCustomData.h" />
     <ClInclude Include="m_MultiPages_SavePlayerData.h" />
     <ClInclude Include="m_UpdateServerClient.h" />
+    <ClInclude Include="d2hd_license.h" />
+    <ClInclude Include="SGD2FreeDisplayFix_license.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cJSON.cpp" />
